@@ -1,0 +1,17 @@
+@import url(//db.onlinewebfonts.com/c/97c4b25dc74e0ab045154e75a8fdd69d?family=Game+of+Thrones);
+.container-fluid {
+    margin: 5%;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.css-1ygcj2i-MuiTableCell-root {
+    font-family: "Game of Thrones";
+    color: rgb(107, 62, 3);
+}
+
+.heading {
+    font-family: "Game of Thrones";
+    color: rgb(107, 62, 3);
+}
